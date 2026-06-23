@@ -1,6 +1,6 @@
 # Hey, I am Aleksei
 
-Mobile and backend developer based in Bishkek, Kyrgyzstan.
+Python and web developer based in Bishkek, Kyrgyzstan.
 
 I build things that solve real problems: bots that automate business workflows, mobile apps with clean UX, and scrapers that get data no one else bothers to collect.
 
