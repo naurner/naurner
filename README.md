@@ -52,7 +52,7 @@ Deal finder for car resellers. It scans two marketplaces by model generation and
 ### 📸 [Yearbook Autofill](https://github.com/naurner/yearbook-autofill)
 Print-production automation for a graduation album studio. **Python drives Photoshop through generated ExtendScript** to fill templates from Excel (photos as clipping masks, text with original styles). It builds a personal PDF yearbook per student and renders watermarked previews without Photoshop. Students pick their photos in a Telegram bot.
 
-`Python` `Photoshop JSX` `Pillow` `fontTools` `openpyxl` `aiogram` · **158 tests**
+`Python` `Photoshop JSX` `Pillow` `fontTools` `openpyxl` `aiogram` · **142 tests**
 
 ---
 
